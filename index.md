@@ -36,4 +36,5 @@ Oversikt over mine publikasjoner kan finnes her: [GoogleScholar - ThomasRolfsnes
 <!-- ### Footer
 
 Sist Oppdatert: Jan. 2023
+-->
 
