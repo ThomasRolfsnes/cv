@@ -1,91 +1,39 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Vita - Thomas Rolfsnes
 ---
 # Thomas Rolfsnes
-Physicist, Mathematician, Cambridge professor.
+Data Scientist/Engineer @ StoryHouse Egmont
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mail@thomasrolfsnes.com">mail@thomasrolfsnes.com</a>
+  | <a href="tel:+47 47275547">+47 47275547</a>
 </div>
 
 
-## Currently
+## Prosjekter
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Jan. 2018 -`
+StoryHouse Egmont
 
 
-### Research interests
+## Utdannelse
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+``
+__Bachelor i Kognitiv Vitenskap, UiB__
 
+``
+__Master i Informatikk, UiO__
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2018`
+__PhD, Simula/UiO__
 
 
+## Publikasjoner
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Oversikt over mine publikasjoner kan finnes her: [GoogleScholar - ThomasRolfsnes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Thomas+Rolfsnes&btnG=) 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Sist Oppdatert: Jan. 2023
 
