@@ -10,11 +10,31 @@ Data Scientist/Engineer @ StoryHouse Egmont
   | <a href="tel:+47 47275547">+47 47275547</a>
 </div>
 
+## Kvalifikasjoner
+
+### Jobber daglig med
+GoogleCloud, SQL, Python, unix, git, GNU make, docker, k8s (autopilot)
+
+### Språk (fra mest til minst kjent)
+SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
+
+### ML
 
 ## Prosjekter
 
-`Jan. 2018 -`
-StoryHouse Egmont
+### Dataplattform
+
+- Delaktig i å pushe StoryHouse til å implementere en full dataplattform i skyen.
+- Matillion ETL
+
+### GDPR-implementasjon
+
+### Churn-prediksjon
+
+### Butikk-tildelings modell
+
+
+### Kundedata-plattform "EgmontID"
 
 
 ## Utdannelse
