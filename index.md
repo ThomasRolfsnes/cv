@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Thomas Rolfsnes
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
