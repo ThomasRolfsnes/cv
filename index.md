@@ -3,6 +3,7 @@ layout: cv
 title: Curriculum Vita - Thomas Rolfsnes
 ---
 # Thomas Rolfsnes
+`2018 -`
 Data Scientist/Engineer @ StoryHouse Egmont
 
 <div id="webaddress">
@@ -18,30 +19,25 @@ GoogleCloud, SQL, Python, unix, git, GNU make, docker, k8s (autopilot)
 ### Språk (fra mest til minst kjent)
 SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 
-### ML
-
 ## Uthevede prosjekter
 
 ### Dataplattform
 
-- Løsningsarkitekt og teknisk ansvarlig for StoryHouse Egmont's data-plattform.
-- Stacken består av dagster (orkestrering/extract/reverse-ETL/ML), dbt (transformasjon) og airbyte (extract)
+- __Løsningsarkitekt og teknisk ansvarlig for StoryHouse Egmont's data-plattform.__
+- Stacken består av dagster (orkestrering/extract/reverse-ETL/ML), dbt (transformasjon) og airbyte (extract).
 - Vi har også tidligere brukt Matillion ETL, og har en pågående migrering
-- Vi håndterer daglig ELT jobber for 15 ulike kilder av ulik karakter (db/api/sftp)
+- Plattformen håndterer daglig ELT jobber for 15 ulike kilder av ulik karakter (db/api/sftp)
+- Vi står ansvarlig for data-leveranser til BI, CRM, tele-marketing, direct-marketing (post) og ML.
 
 ### Kundedata-plattform/CDP
 
-- Leder CDP-prosjektet
-- Prosjektet har som mål å samle alle StoryHouse Egmont's primære kundedata fra ulike produkter under samme paraply, samt få en enhetlig håndtering av samtykker.
-- S360 står for utvikling
+- __Leder StoryHouse Egmont's CDP-prosjekt__
+- Prosjektet har som mål å samle alle StoryHouse Egmont's primære kundedata fra ulike produkter under samme paraply, samt få en enhetlig håndtering av samtykker. S360 står for utvikling.
 
-### GDPR-implementasjon
+### ML: Butikk-tildelings modell
 
-### Churn-prediksjon
-
-### Butikk-tildelings modell
-
-
+- __Ansvarlig utvikler__
+- Løsningen har som mål å optimalisere tildeling av alle StoryHouse Egmont's løssalgs-publikasjoner til butikker i Norge.
 
 
 ## Utdannelse
@@ -49,18 +45,17 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 `2013-2017`
 __Simula School of Research and Innovation / UiO__
 - PHD I INFORMASJONS OG KOMMUNIKASJONSVITENSKAP
-- Forsvarte oppgaven “Improving History-Based Change Recommendation Systems for Software Evolution”, 1 September 20
+- Forsvarte oppgaven “Improving History-Based Change Recommendation Systems for Software Evolution”
 
 `2011-2013`
 __Universitetet i Oslo (UiO)__
 - M.SC. I INFORMATIKK: DESIGN, BRUK OG INTERAKSJON
-- Masteren omhandlet blandt annet studiet av store informasjonssystemer, system-modellering (UML,BPMN) og konstruksjon av uangripelige
-systemer.
+- Masteren omhandlet blandt annet studiet av store informasjonssystemer og system-modellering
 
 `2008-2011`
 __Universitetet i Bergen (UiB)__
 - B.S. IN KOGNITIV VITENSKAP
-- Tverrfaglig bachelor som omfavner kunstig intelligens, formell logikk, kalkulus, programmering og sinnsfilosofi.
+- Tverrfaglig bachelor som omfavner kunstig intelligens, formell logikk, kalkulus, programmering og sinnsfilosofi
 
 
 
