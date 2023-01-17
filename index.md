@@ -47,7 +47,7 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 
 `2013-2017`
 __Simula School of Research and Innovation / UiO__
-- PHD I INFORMASJONS OG KOMMUNIKASJONSVITENSKAP
+- PhD I INFORMASJONS OG KOMMUNIKASJONSVITENSKAP
 - Forsvarte oppgaven “Improving History-Based Change Recommendation Systems for Software Evolution”
 
 `2011-2013`
@@ -57,7 +57,7 @@ __Universitetet i Oslo (UiO)__
 
 `2008-2011`
 __Universitetet i Bergen (UiB)__
-- B.S. IN KOGNITIV VITENSKAP
+- B.S. I KOGNITIV VITENSKAP
 - Tverrfaglig bachelor som omfavner kunstig intelligens, formell logikk, kalkulus, programmering og sinnsfilosofi
 
 
