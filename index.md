@@ -39,14 +39,22 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 
 ## Utdannelse
 
-``
-__Bachelor i Kognitiv Vitenskap, UiB__
+`2013-2017`
+__Simula School of Research and Innovation / UiO__
+PHD I INFORMASJONS OG KOMMUNIKASJONSVITENSKAP
+- Forsvarte oppgaven “Improving History-Based Change Recommendation Systems for Software Evolution”, 1 September 20
 
-``
-__Master i Informatikk, UiO__
+`2011-2013`
+__Universitetet i Oslo (UiO)__
+M.SC. I INFORMATIKK: DESIGN, BRUK OG INTERAKSJON
+- Masteren omhandlet blandt annet studiet av store informasjonssystemer, system-modellering (UML,BPMN) og konstruksjon av uangripelige
+systemer.
 
-`2018`
-__PhD, Simula/UiO__
+`2008-2011`
+__Universitetet i Bergen (UiB)__
+B.S. IN KOGNITIV VITENSKAP
+- Tverrfaglig bachelor som omfavner kunstig intelligens, formell logikk, kalkulus, programmering og sinnsfilosofi.
+
 
 
 ## Publikasjoner
