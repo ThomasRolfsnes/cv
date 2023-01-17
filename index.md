@@ -7,7 +7,7 @@ title: Curriculum Vita - Thomas Rolfsnes
 Data Scientist/Engineer @ StoryHouse Egmont
 
 <div id="webaddress">
-<a href="mailto:mail@thomasrolfsnes.com">mail@thomasrolfsnes.com</a>
+<a href="mailto: mail@thomasrolfsnes.com">mail@thomasrolfsnes.com</a>
   | <a href="tel:+47 47275547">+47 47275547</a>
 </div>
 
