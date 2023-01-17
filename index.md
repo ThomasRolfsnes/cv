@@ -20,12 +20,20 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 
 ### ML
 
-## Prosjekter
+## Uthevede prosjekter
 
 ### Dataplattform
 
-- Delaktig i å pushe StoryHouse til å implementere en full dataplattform i skyen.
-- Matillion ETL
+- Løsningsarkitekt og teknisk ansvarlig for StoryHouse Egmont's data-plattform.
+- Stacken består av dagster (orkestrering/extract/reverse-ETL/ML), dbt (transformasjon) og airbyte (extract)
+- Vi har også tidligere brukt Matillion ETL, og har en pågående migrering
+- Vi håndterer daglig ELT jobber for 15 ulike kilder av ulik karakter (db/api/sftp)
+
+### Kundedata-plattform/CDP
+
+- Leder CDP-prosjektet
+- Prosjektet har som mål å samle alle StoryHouse Egmont's primære kundedata fra ulike produkter under samme paraply, samt få en enhetlig håndtering av samtykker.
+- S360 står for utvikling
 
 ### GDPR-implementasjon
 
@@ -34,7 +42,6 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 ### Butikk-tildelings modell
 
 
-### Kundedata-plattform "EgmontID"
 
 
 ## Utdannelse
@@ -59,7 +66,7 @@ __Universitetet i Bergen (UiB)__
 
 ## Publikasjoner
 
-Oversikt over mine publikasjoner kan finnes her: [GoogleScholar - ThomasRolfsnes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Thomas+Rolfsnes&btnG=) 
+Oversikt over mine publikasjoner fra PhD-tiden kan finnes her: [GoogleScholar - ThomasRolfsnes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Thomas+Rolfsnes&btnG=) 
 
 <!-- ### Footer
 
