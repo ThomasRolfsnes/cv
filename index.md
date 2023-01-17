@@ -32,13 +32,16 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 ### Kundedata-plattform/CDP
 
 - __Leder StoryHouse Egmont's CDP-prosjekt__
-- Prosjektet har som mål å samle alle StoryHouse Egmont's primære kundedata fra ulike produkter under samme paraply, samt få en enhetlig håndtering av samtykker. S360 står for utvikling.
+- Prosjektet har som mål å samle alle StoryHouse Egmont's primære kundedata fra ulike produkter under samme paraply,
+- samt få en enhetlig håndtering av samtykker. S360 står for utvikling.
 
 ### ML: Butikk-tildelings modell
 
 - __Ansvarlig utvikler__
 - Løsningen har som mål å optimalisere tildeling av alle StoryHouse Egmont's løssalgs-publikasjoner til butikker i Norge.
-
+- Selve blad-etterspørsels prediksjonen er løst i LGBM
+- I etterkant optimaliseres blad-tildeling "globalt" for alle butikker basert på forventet inntjening og diverse gebyrer
+- Sammarbeidsprosjekt med BrightArch AS
 
 ## Utdannelse
 
