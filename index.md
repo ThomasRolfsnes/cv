@@ -26,7 +26,7 @@ SQL, Python, Ruby, JS, Java, Prolog, Lisp, Haskell
 - __Løsningsarkitekt og teknisk ansvarlig for StoryHouse Egmont's data-plattform.__
 - Stacken består av dagster (orkestrering/extract/reverse-ETL/ML), dbt (transformasjon) og airbyte (extract).
 - Vi har også tidligere brukt Matillion ETL, og har en pågående migrering
-- Plattformen håndterer daglig ELT jobber for 15 ulike kilder av ulik karakter (db/api/sftp)
+- Plattformen håndterer daglig ELT jobber for 15 kilder av ulik karakter (db/api/sftp)
 - Vi står ansvarlig for data-leveranser til BI, CRM, tele-marketing, direct-marketing (post) og ML.
 
 ### Kundedata-plattform/CDP
