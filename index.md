@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vita - Thomas Rolfsnes
 ---
 # Thomas Rolfsnes
-`2018 -`
+`2018 - Pågående`
 Data Scientist/Engineer @ StoryHouse Egmont
 
 <div id="webaddress">
